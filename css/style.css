@@ -263,7 +263,12 @@ header{
     .banner h1{
         font-size: 30px;
     }
+
+
+    .banner p{
+        font-size:8px;
 }
+
 
 
 
