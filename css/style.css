@@ -239,5 +239,29 @@ header{
 }
 
 
+@mediaonlyscreenand(max-width:992px)
+{
+    .header .banner{
+        text-align: center;
+    }
+}
+
+@mediaonlyscreenand(max-width:767px)
+{
+    .header .banner{
+        text-align: center;
+    }
+}
+
+
+@mediaonlyscreenand(max-width:576px)
+{
+    .header .banner{
+        text-align: center;
+    }
+}
+
+
+
 
 
