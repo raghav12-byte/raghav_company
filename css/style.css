@@ -257,10 +257,14 @@ header{
 
 @mediaonlyscreenand(max-width:576px)
 {
-    .header .banner{
+    header .banner h1{
         text-align: center;
     }
 }
+
+
+
+
 
 
 
