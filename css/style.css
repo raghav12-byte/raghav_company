@@ -240,14 +240,14 @@ header{
 }
 
 
-@mediaonlyscreenand(max-width:992px)
+@mediaonlyscreen and (max-width:992px)
 {
     .header .banner{
         text-align: center;
     }
 }
 
-@mediaonlyscreenand(max-width:767px)
+@mediaonlyscreen and (max-width:767px)
 {
     .header .banner{
         text-align: center;
@@ -255,13 +255,14 @@ header{
 }
 
 
-@mediaonlyscreenand(max-width:576px)
+@mediaonlyscreen and (max-width:576px)
 {
     header .banner h1{
         text-align: center;
         font-size:20px;
     }
 }
+
 
 
 
