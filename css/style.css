@@ -269,6 +269,30 @@ header{
         font-size:8px;
 }
 
+@media only screen and (max-width: 767px)
+{
+    .glyphicon{
+        font-size:20px;
+    }
+}
+
+
+
+@media only screen and (max-width: 576px)
+{
+    .banner h1{
+        font-size: 40px;
+    }
+
+
+    .item h4{
+        margin:50px 0px 90px 0px;
+    }
+
+  
+}
+
+
 
 
 
