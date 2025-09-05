@@ -256,7 +256,7 @@ header{
        text-align:center;
     }
 
-    #second  .right{
+    #second  .left2{
        text-align:center;
     }
 
@@ -289,7 +289,7 @@ header{
        text-align:center;
     }
 
-     #third  .right2{
+     #third  .left2{
        text-align:center;
     }
 
@@ -334,7 +334,7 @@ header{
     }
 
 
-     #third  .right2{
+     #third  .left2{
        text-align:center;
     }
 
@@ -372,7 +372,7 @@ header{
     }
 
 
-     #third  .right2{
+     #third  .left2{
        text-align:center;
     }
 
@@ -411,7 +411,7 @@ header{
     }
 
 
-     #third  .right2{
+     #third  .left2{
        text-align:center;
     }
 
@@ -420,6 +420,7 @@ header{
     }
   
 }
+
 
 
 
