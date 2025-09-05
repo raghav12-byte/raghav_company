@@ -255,6 +255,12 @@ header{
     .banner h1{
         font-size: 30px;
     }
+
+    .fifth .card{
+        background-color:#fff;
+        margin: 10px 0px 10px 0px;
+    }
+
 }
 
 
@@ -274,6 +280,13 @@ header{
         color: #f4511e;
         margin: 0 auto
     }
+
+
+    .fifth .card{
+        background-color:#fff;
+        margin: 10px 0px 10px 0px;
+    }
+
 }
 
     
@@ -284,6 +297,12 @@ header{
     .glyphicon{
         font-size:200px;
     }
+        .fifth .card{
+            background-color:#fff;
+            margin: 10px 0px 10px 0px;
+        }
+
+    
 }
 
 
@@ -299,8 +318,15 @@ header{
         margin:50px 0px 90px 0px;
     }
 
+    .fifth .card{
+        background-color:#fff;
+        margin: 10px 0px 10px 0px;
+    }
+
+
   
 }
+
 
 
 
