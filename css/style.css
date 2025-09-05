@@ -259,6 +259,10 @@ header{
     #second  .right{
        text-align:center;
     }
+
+    .banner{
+        width:80%;
+    }
 }
 
 
@@ -290,7 +294,9 @@ header{
     }
 
 
-    
+    .banner{
+        width:80%;
+    }
     
 
 }
@@ -336,6 +342,10 @@ header{
         font-size: 200px;
     }
 
+    .banner{
+        width:80%;
+    }
+
 }
 
     
@@ -364,6 +374,10 @@ header{
 
      #third  .right2{
        text-align:center;
+    }
+
+    .banner{
+        width:80%;
     }
 
     
@@ -401,9 +415,12 @@ header{
        text-align:center;
     }
 
-
+    .banner{
+        width:80%;
+    }
   
 }
+
 
 
 
