@@ -269,6 +269,10 @@ header{
     
     }
 
+    .third .glyphicon{
+        font-size: 200px;
+    }
+
 }
 
 
@@ -296,7 +300,10 @@ header{
     }
     .second .glyphicon{
         font-size: 200px;
-    
+    }
+
+    .third .glyphicon{
+        font-size: 200px;
     }
 
 }
@@ -314,6 +321,10 @@ header{
             background-color:#fff;
             margin: 20px 0px 20px 0px;
         }
+
+    .third .glyphicon{
+        font-size: 200px;
+    }
 
     
 }
@@ -336,9 +347,14 @@ header{
         margin: 10px 0px 10px 0px;
     }
 
+    .third .glyphicon{
+        font-size: 200px;
+    }
+
 
   
 }
+
 
 
 
