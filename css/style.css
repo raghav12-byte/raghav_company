@@ -251,6 +251,14 @@ header{
         font-size: 200px;
     
     }
+
+    #second  .right{
+       text-align:center;
+    }
+
+    #second  .right{
+       text-align:center;
+    }
 }
 
 
@@ -272,6 +280,18 @@ header{
     .third .glyphicon{
         font-size: 200px;
     }
+
+    #second  .right{
+       text-align:center;
+    }
+
+     #third  .right2{
+       text-align:center;
+    }
+
+
+    
+    
 
 }
 
@@ -302,6 +322,16 @@ header{
         font-size: 200px;
     }
 
+
+     #second  .right{
+       text-align:center;
+    }
+
+
+     #third  .right2{
+       text-align:center;
+    }
+
     .third .glyphicon{
         font-size: 200px;
     }
@@ -324,6 +354,16 @@ header{
 
     .third .glyphicon{
         font-size: 200px;
+    }
+
+
+     #second  .right{
+       text-align:center;
+    }
+
+
+     #third  .right2{
+       text-align:center;
     }
 
     
@@ -352,8 +392,19 @@ header{
     }
 
 
+     #second  .right{
+       text-align:center;
+    }
+
+
+     #third  .right2{
+       text-align:center;
+    }
+
+
   
 }
+
 
 
 
