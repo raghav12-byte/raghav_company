@@ -278,7 +278,7 @@ header{
     .glyphicon{
         font-size: 250px;
         color: #f4511e;
-        margin: 0 auto
+        margin: 0 auto;
     }
 
 
@@ -296,6 +296,7 @@ header{
 {
     .glyphicon{
         font-size:200px;
+        margin: 0 auto;
     }
         .fifth .card{
             background-color:#fff;
@@ -326,6 +327,7 @@ header{
 
   
 }
+
 
 
 
